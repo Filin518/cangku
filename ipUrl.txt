@@ -1,5 +1,5 @@
-https://git.zhaozyx.xyz:18888/root/youxuan/blob/master/ipJP.txt
-https://git.zhaozyx.xyz:18888/root/youxuan/blob/master/ipHK.txt@proxyip.amclubs.kozow.com
-https://git.zhaozyx.xyz:18888/root/youxuan/blob/master/ipv4.csv
-https://git.zhaozyx.xyz:18888/root/youxuan/blob/master/ipUS.txt
-https://git.zhaozyx.xyz:18888/root/youxuan/blob/master/ipSG.txt
+https://raw.githubusercontent.com/Filin518/cangku/refs/heads/main/ipJP.txt
+https://raw.githubusercontent.com/Filin518/cangku/refs/heads/main/ipHK.txt@proxyip.amclubs.kozow.com
+https://raw.githubusercontent.com/Filin518/cangku/refs/heads/main/ipv4.csv
+https://raw.githubusercontent.com/Filin518/cangku/refs/heads/main/ipUS.txt
+https://raw.githubusercontent.com/Filin518/cangku/refs/heads/main/ipSG.txt
