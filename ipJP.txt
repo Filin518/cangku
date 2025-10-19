@@ -1,4 +1,4 @@
-156.238.19.8:443#JP
+156.238.19.8:443#JP_1
 www.4chan.org
 www.okcupid.com
 www.glassdoor.com
