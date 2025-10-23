@@ -1,5 +1,5 @@
-156.238.19.8:443#JP_1
-www.4chan.org#JP_2
-www.okcupid.com#JP_3
-www.glassdoor.com#JP_4
-www.iakeys.com#JP_5
+156.238.19.8:443#日本01
+www.4chan.org#日本02
+www.okcupid.com#日本03
+www.glassdoor.com#日本04
+www.iakeys.com#日本05
